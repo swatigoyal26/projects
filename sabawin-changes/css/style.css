@@ -537,12 +537,15 @@ button.refill-btn{
   font-weight: 600;
 }
 .top-selling-juice a{
-  float: right; 
+  /*float: right; */
   color: #000;
   padding-top: 20px;
 }
 .top-selling-juice p{
   text-align: center;
+}
+.top-selling-juice .view-all a{
+  float: right;
 }
 /*.new-arrival-1 button:,.new-arrival-1 button:active{
   background-color: #8dab13;  
